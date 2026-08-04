@@ -379,18 +379,14 @@ Restaurant ordering platform serving **10,000+ users** across multiple clients.
 </div>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dimasprog&show_icons=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&hide_border=true&count_private=true" alt="GitHub Stats" width="52%" />
-  </a>
+    <img src="https://raw.githubusercontent.com/Dimasprog/Dimasprog/main/assets/github-readme-stats.svg" alt="GitHub Stats" width="52%" />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimasprog&theme=omni&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6" alt="GitHub Streak" width="46%" />
+    <img src="https://streak-stats.demolab.com/?user=Dimasprog&theme=omni&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6" alt="GitHub Streak" width="46%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimasprog&layout=compact&langs_count=8&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="46%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Dimasprog/Dimasprog/main/assets/top-langs.svg" alt="Top Languages" width="46%" />
 </p>
 
 ---
@@ -402,9 +398,7 @@ Restaurant ordering platform serving **10,000+ users** across multiple clients.
 </div>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dimasprog&theme=dark_lover&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+    <img src="https://raw.githubusercontent.com/Dimasprog/Dimasprog/main/assets/trophies.svg" alt="GitHub Trophies" />
 </p>
 
 ---
