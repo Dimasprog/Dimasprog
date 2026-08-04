@@ -12,6 +12,9 @@ concurrency:
   group: snake
   cancel-in-progress: true
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     name: Generate and commit contribution snake
